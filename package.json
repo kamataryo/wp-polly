@@ -1,0 +1,26 @@
+{
+  "name": "wp-polly",
+  "version": "0.0.0",
+  "description": "Amazon polly and WP REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamataryo/wp-polly.git"
+  },
+  "keywords": [
+    "polly",
+    "wordpress"
+  ],
+  "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamataryo/wp-polly/issues"
+  },
+  "homepage": "https://github.com/kamataryo/wp-polly#readme",
+  "dependencies": {
+    "simplayer": "0.0.8"
+  }
+}
